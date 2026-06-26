@@ -1,194 +1,155 @@
-# Nourishing Health and Happiness with MCAS
+# MCAS Food Guide: Quick Actions
 
-Actionable summary of `nourishing-health-and-happiness-with-mcas.pdf`.
+Short, practical notes from `nourishing-health-and-happiness-with-mcas.pdf`.
 
-This is general information for adults with Mast Cell Activation Syndrome (MCAS). It should support, not replace, advice from your medical team or a registered dietitian. If your diet is very restricted, you are losing weight without intending to, or you have other conditions such as gastroparesis, POTS, coeliac disease, diabetes, kidney disease, pregnancy, or an eating disorder history, get individual advice before making major changes.
+**Looking for food ideas? Go straight to [Recipes](RECIPES.md).**
 
-## Core Principles
+This guide is general information, not medical advice. MCAS is different for everyone. If eating feels hard, your diet is very limited, or your weight is changing without meaning to, **ask a parent/carer and your doctor or dietitian for help**.
 
-- Focus on what you can safely eat, not only what you need to avoid.
-- Avoid unnecessary restriction. Low histamine, low FODMAP, dairy-free, gluten-free, low salicylate, and low oxalate diets are sometimes used, but most people do not need all of them at once.
-- Use elimination diets only short term and ideally with professional support. Staying highly restricted increases the risk of nutrient deficiencies, weight loss, food fear, constipation, poor gut diversity, and reduced quality of life.
-- Treat food triggers as variable. Reactions can change with stress, infection, hormones, environmental triggers, sleep, medication changes, and overall mast cell stability.
-- Change one thing at a time. Do not start a new food, medication, supplement, and major lifestyle change all together if you want to know what caused a reaction.
+## Most Important Actions
 
-## Daily Nutrition Checklist
+- **Eat enough first.** A tiny "perfect" diet is not better than a wider diet you can actually manage.
+- **Keep safe foods visible.** Make a list of foods, meals, snacks, drinks, and brands that usually work for you.
+- **Change one thing at a time.** Do not test a new food, supplement, and medicine all on the same day.
+- **Add, do not only remove.** Every time you cut out a food, look for another safe food that gives protein, energy, fibre, vitamins, or minerals.
+- **Use the [Recipes](RECIPES.md) file when you are stuck.** Pick one recipe and swap ingredients for your own safe foods.
 
-Use this as a flexible target, adapted to your tolerated foods.
+## Build A Simple Plate
 
-- Include protein at each meal: fresh meat, poultry, eggs, fresh/frozen white fish, tolerated dairy, tofu, beans/pulses, nuts, seeds, nut butters, or a tolerated protein powder.
-- Include a carbohydrate at each meal: rice, oats, quinoa, potatoes, sweet potatoes, pasta, bread, wraps, crackers, corn/maize, buckwheat, bulgur, sorghum, or tolerated gluten-free alternatives.
-- Add tolerated vegetables and fruit daily. Frozen and canned options are useful when fatigue is high.
-- Add fats for energy and absorption: olive oil, rapeseed oil, avocado, coconut milk, nuts, seeds, nut butters, dairy or dairy-free cheese, cream, or plant-based alternatives.
-- Work toward fibre gradually. A general adult target is about 30 g/day, but increase slowly and get advice if you have gastroparesis, severe IBS symptoms, or another condition where fibre needs adjusting.
-- Hydrate regularly with tolerated drinks.
-- Keep a list of safe foods, safe meals, and reliable brands so eating requires less decision-making during flares.
+At meals, aim for:
 
-## Fibre: Build It Slowly
+- **Protein:** chicken, turkey, fresh/frozen white fish, eggs, tofu, beans, pulses, nuts, seeds, nut butter, dairy, dairy-free alternatives, or a tolerated protein powder.
+- **Carbohydrate:** rice, oats, quinoa, potatoes, sweet potatoes, pasta, bread, wraps, crackers, corn, buckwheat, or gluten-free alternatives.
+- **Fruit or vegetables:** whatever you tolerate. Frozen and canned options count.
+- **Energy extras:** olive oil, rapeseed oil, coconut milk, avocado, nuts, seeds, nut butter, cheese, dairy-free cheese, cream, or plant-based alternatives.
 
-Fibre supports gut health, immune function, bowel regularity, mood, and long-term metabolic health. Restricted diets can make fibre intake much lower than intended.
+**If you can only manage a small meal, make it count:** add oil, nut butter, coconut milk, cheese/dairy-free cheese, seeds, or a nourishing drink.
 
-Ways to increase fibre:
+## Fibre: Add It Slowly
 
-- Add tolerated fruit, nuts, or seeds to breakfast.
-- Add extra vegetables, beans, or pulses to cooked meals and salads.
-- Choose wholegrain or higher-fibre versions of tolerated carbohydrates.
-- Use frozen/canned produce when preparing fresh food is too much.
-- Base snacks around tolerated plant foods.
+Fibre helps your gut, bowels, immune system, and mood. But adding too much too fast can cause bloating.
 
-Lower-histamine fibre options may include wholegrain rice, pasta, quinoa, bread, some beans and pulses such as kidney beans, chickpeas and white beans, nuts except pistachios, seeds, and tolerated fruits/vegetables. Introduce gradually to reduce wind and bloating.
+**Try one small fibre upgrade at a time:**
 
-## If You Are Losing Weight or Eating Very Little
+- Add fruit, nuts, or seeds to breakfast.
+- Add extra vegetables, beans, or pulses to a meal.
+- Swap to a wholegrain version if you tolerate it.
+- Use frozen/canned fruit or vegetables when cooking feels too much.
 
-Warning signs include unplanned weight loss, low appetite, loss of muscle strength, tiredness, low mood, or a diet reduced to a small number of foods. Malnutrition can worsen immune function, inflammation, wound healing, strength, energy, mood, and quality of life.
+Lower-histamine fibre options may include rice, pasta, quinoa, bread, chickpeas, kidney beans, white beans, nuts except pistachios, seeds, and tolerated fruit/veg.
 
-Actions:
+Ask for dietitian advice before increasing fibre if you have gastroparesis, severe IBS symptoms, or another condition where fibre needs special care.
 
-- Contact a GP, dietitian, or relevant clinician if weight loss is ongoing, BMI is low, or your intake is very limited.
-- Eat little and often if large meals are difficult: aim for meals/snacks every 2-3 hours if possible.
-- Add energy-dense extras to foods you already tolerate: olive/rapeseed oil, nut or seed butter, ground nuts/seeds, coconut milk, avocado, cream, cheese, dairy-free cheese, honey/maple syrup, or fortified milk.
-- Use nourishing drinks between meals: smoothies, milkshakes, plant-milk drinks, hot milky drinks, or ready-to-drink build-up drinks.
-- Add protein wherever possible: meat, fish, eggs, tofu, beans/pulses, nuts/seeds, dairy, plant-based alternatives, or tolerated protein powder.
-- Ask your GP about prescribed nutrition supplements if your BMI is very low or you have lost significant weight.
+## If You Are Losing Weight Or Eating Very Little
 
-### Dairy-Free Weight Gain
+**Tell an adult and ask for medical help if this is happening.** Warning signs include losing weight without trying, low appetite, tiredness, weaker muscles, low mood, or only eating a small number of foods.
 
-- Aim for calcium-fortified plant milk if tolerated. Soya is usually highest in protein, followed by oat; other nut, pea, or rice milks may suit some people better.
-- Add dairy-free cheese, butter, custard, cream, yoghurt, or desserts where tolerated.
-- Include calcium sources: calcium-fortified plant milk/yoghurt, calcium-set tofu, calcium-enriched bread, tahini, dried figs, leafy greens, almonds. Adults generally need about 700 mg calcium/day, but some conditions require more.
+Quick actions:
 
-### Low-Histamine Weight Gain
+- **Eat every 2-3 hours if you can.** Small meals and snacks are fine.
+- **Add energy to foods you already tolerate:** oil, nut/seed butter, ground nuts/seeds, coconut milk, avocado, cream, cheese, dairy-free cheese, honey, maple syrup, or fortified milk.
+- **Drink nutrition when chewing feels hard:** smoothies, milkshakes, plant-milk drinks, hot milky drinks, or build-up drinks.
+- **Add protein whenever possible.**
+- **Ask about prescribed nutrition drinks** if weight loss is significant or your BMI is low.
 
-- The strict elimination phase should usually be short term, often 2-4 weeks, followed by structured reintroduction.
-- Build meals around a tolerated protein, carbohydrate, and vegetable.
-- Lower-histamine protein examples: fresh/minced chicken, turkey, non-aged beef/lamb, fresh or frozen white fish, eggs, some cheeses such as mozzarella/cottage cheese/mascarpone, nuts except pistachios, seeds, nut/seed butters.
-- Lower-histamine carbohydrates may include oats, quinoa, rice, wheat products or tolerated gluten-free versions, buckwheat, bulgur, potatoes, sweet potatoes, corn/maize, and sorghum.
+For food ideas, use [Recipes](RECIPES.md), especially the smoothies and nourishing drinks.
 
-## If You Are Gaining Weight Unintentionally
+## Dairy-Free Notes
 
-MCAS-related weight gain can be influenced by inflammation, histamine/prostaglandins, fatigue, pain, GI symptoms, reduced activity, reliance on calorie-dense safe foods, antihistamines, steroids, sleep disruption, and stress. It is not simply willpower.
+If you avoid dairy, watch calcium and protein.
 
-Actions:
+- **Use calcium-fortified plant milk or yoghurt if tolerated.**
+- Soya milk is usually higher in protein, then oat milk. Other options may suit you better.
+- Other calcium sources may include calcium-set tofu, calcium-enriched bread, tahini, dried figs, leafy greens, and almonds.
 
-- Prioritise balance over further restriction.
-- At meals, aim for protein + tolerated carbohydrate + fat + vegetables where possible.
-- Use a food/symptom/activity diary to identify patterns and safe healthier options.
-- Add gentle movement within limits: short walks, stretching, chair Pilates, or small repeatable routines.
-- Hydrate regularly.
-- Work on sleep and stress management because both can affect mast cell activation and appetite hormones.
-- Consider a dietitian experienced in MCAS if weight change is difficult to manage.
+## Low-Histamine Notes
 
-## Reintroducing Foods Safely
+The strict elimination phase of a low-histamine diet is usually short term, often around **2-4 weeks**, then foods are reintroduced carefully.
 
-Reintroduction can improve nutrition, variety, gut health, social eating, food confidence, mental health, and weight stability.
+Lower-histamine protein examples:
 
-Suggested approach:
+- Fresh chicken, turkey, non-aged beef/lamb
+- Fresh or frozen white fish
+- Eggs
+- Some cheeses such as mozzarella, cottage cheese, or mascarpone
+- Nuts except pistachios, seeds, nut/seed butters
 
-1. Start during a relatively stable period, ideally after 1-2 stable weeks.
-2. Reintroduce one food at a time.
+Lower-histamine carbohydrates may include oats, quinoa, rice, wheat products or gluten-free versions, buckwheat, bulgur, potatoes, sweet potatoes, corn, and sorghum.
+
+## If Weight Is Going Up Without Meaning To
+
+This can happen with MCAS because of inflammation, tiredness, pain, gut symptoms, lower activity, relying on higher-calorie safe foods, sleep problems, stress, or medication.
+
+**Do not crash diet.** More restriction can make food fear and nutrition worse.
+
+Try:
+
+- **Protein + carbohydrate + vegetables + fat** at meals where possible.
+- A simple food/symptom/activity diary to spot patterns.
+- Gentle movement you can repeat: short walks, stretching, or chair exercises.
+- Enough sleep and regular fluids.
+- Dietitian support if weight changes feel hard to manage.
+
+## Reintroducing Foods
+
+Reintroducing foods can improve nutrition, confidence, gut health, and variety.
+
+**Go slowly:**
+
+1. Start when symptoms have been fairly stable for 1-2 weeks.
+2. Try one new food at a time.
 3. Start with a tiny amount, even one bite.
-4. If there is no immediate reaction, build gradually, for example:
+4. If okay, build up slowly:
    - Day 1: one third of a normal portion
    - Day 2: half a normal portion
    - Day 3: normal portion
-5. Go slower or leave rest days between increases if you have avoided the food for a long time, feel fearful, react to small changes, or have delayed reactions.
-6. Keep notes in neutral language: food, amount, timing, symptoms, other triggers, and whether you would try again.
+5. Go slower if you are nervous, very sensitive, or reactions are delayed.
+6. Write notes neutrally: food, amount, symptoms, other triggers, and whether you would try again.
 
 ## Supplements
 
-Supplements should be treated with the same caution as medicines. Evidence for many MCAS supplements is limited, and people with MCAS may react to fillers, colours, binders, capsules, excipients, or dose size.
+**Treat supplements like medicines.** They can help some people, but they can also cause reactions or interact with medication.
 
-Principles:
+Rules:
 
-- Discuss supplements with a healthcare professional, especially if pregnant, taking medication, managing a medical condition, or considering high doses.
-- Prefer nutrients from food where possible.
+- **Ask a doctor/dietitian first**, especially for high doses.
 - Start one supplement at a time.
-- Start with a very small dose and increase cautiously.
-- Choose simple formulations with minimal ingredients.
-- Stop and seek medical advice if symptoms worsen.
+- Start with a very small dose.
+- Choose simple products with fewer fillers, colours, and additives.
+- Stop and get advice if symptoms worsen.
 
-Commonly discussed supplements:
+Commonly discussed supplements include vitamin C, vitamin D, omega-3, quercetin/luteolin, PEA, and probiotics. Evidence varies, and probiotics are strain-specific. Some fermented foods are high histamine.
 
-- Vitamin C: may be low if fruit/vegetable intake is restricted; evidence as a mast cell stabiliser in humans is limited.
-- Vitamin D: important for bones, teeth, and muscle. Many adults at risk of low vitamin D are advised to consider 10 micrograms daily, especially in autumn/winter, but confirm what is right for you.
-- Omega-3: useful for brain, heart, and inflammation support. Low-histamine diets may reduce oily fish intake. Options include fish oil or algae oil; food sources include ground flaxseed, walnuts, chia seeds, and hemp seeds.
-- Quercetin/luteolin: flavonoids with antioxidant/anti-inflammatory properties; research is promising but not definitive, and dose/safety should be checked.
-- PEA: may affect mast cell receptors and pain pathways; more MCAS-specific research is needed.
-- Probiotics: strain-specific and condition-specific. Fermented foods are often high histamine, and some bacterial strains may produce histamine, so choose carefully with professional guidance.
+## Flares And Food Fear
 
-## Flares, Food Fear, and Wellbeing
+Food reactions can be scary. That does not mean you did anything wrong.
 
 During a flare:
 
-- Use your flare plan: quiet space, safe fluids, prescribed/rescue medication, calming tools, and support person if needed.
-- Slow breathing, grounding, music, gentle heat/cold packs, or a calming phrase can help reduce panic.
-- Remind yourself that unpredictable reactions are not your fault.
+- Use your flare plan and prescribed/rescue medication.
+- Rest somewhere quiet.
+- Sip safe fluids if you can.
+- Try slow breathing, music, grounding, or heat/cold packs.
 
 After a flare:
 
-- Rest physically and emotionally.
-- Record what happened neutrally if tracking helps.
-- Talk it through with someone safe if the reaction was distressing.
+- Rest.
+- Write down what happened without blaming yourself.
+- Tell someone safe if it upset you.
 
-For food anxiety:
+If food anxiety is making your diet smaller:
 
-- Eat in a calm environment where possible.
-- Take a few breaths before eating to support a rest-and-digest state.
-- Use a simple phrase such as "This food has been safe before" if that feels helpful.
-- Pair eating with something pleasant: music, a familiar show, or company.
-- Journal successful safe meals, not only reactions, to counter the brain's bias toward remembering danger.
-- Seek support from an MCAS-aware dietitian, therapist, or health coach if fear is narrowing your diet.
+- Eat somewhere calm.
+- Take a few breaths before meals.
+- Pair food with something pleasant, like music or a favourite show.
+- Track foods that went well, not only reactions.
+- Ask for help from an MCAS-aware dietitian, therapist, or health professional.
 
-## Eating Out and Socialising
-
-Preparation reduces risk and stress.
-
-- Host or co-host when possible so you can control food and environment.
-- Bring a safe dish or safe snacks.
-- Contact restaurants or hosts in advance.
-- Check menus online and choose simpler dishes with fewer hidden ingredients.
-- Ask about ingredients, cooking methods, sauces, marinades, stock cubes, spice blends, preservatives, and cross-contamination.
-- Ask for clean utensils, pans, boards, and surfaces.
-- Consider off-peak times, outdoor seating, or well-ventilated spaces.
-- Watch for non-food triggers: perfume, smoke/vaping, pets, flowers, cleaning products, temperature changes, crowding, and noise.
-- Carry essentials: prescribed medication, antihistamines, EpiPen if prescribed, safe snacks, mask if needed, and a written safe/unsafe food list.
-- Have an exit plan. It is acceptable to leave early or attend without eating.
-
-### Restaurant Message Template
-
-Dear [Restaurant],
-
-I am visiting on [date/time]. I have Mast Cell Activation Syndrome, which means I can react to certain foods, ingredients, and cross-contamination.
-
-I need to strictly avoid: [list foods/ingredients/additives].
-
-Meals that are often safer for me include: [plain grilled/baked meat or fish, rice, potatoes, steamed vegetables, simple salad with olive oil, tolerated fruit].
-
-Could your kitchen safely prepare a simple meal using clean utensils, pans, boards, and surfaces that have not touched my trigger foods? I am happy to discuss which menu items could be adapted.
-
-Thank you for your help,
-
-[Name / contact details]
-
-### Host Message Template
-
-Hi [Name],
-
-Thank you for inviting me to [event]. I wanted to let you know that I have MCAS, which means I can react to certain foods and sometimes to cross-contamination.
-
-I need to avoid: [list triggers].
-
-Please do not worry if catering for this feels too difficult. I am very happy to bring something safe with me. I mainly wanted to let you know in advance so it is easier for both of us.
-
-Thank you for understanding,
-
-[Name]
-
-## Simple Planning Templates
+## Quick Planning Templates
 
 ### Weekly Meals
 
-| Day | Breakfast | Lunch | Dinner | Snacks | Notes/goals |
+| Day | Breakfast | Lunch | Dinner | Snacks | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Monday |  |  |  |  |  |
 | Tuesday |  |  |  |  |  |
@@ -198,477 +159,20 @@ Thank you for understanding,
 | Saturday |  |  |  |  |  |
 | Sunday |  |  |  |  |  |
 
-### Shopping List
+### Safe Food List
 
-| Category | Items |
+| Category | My safe options |
 | --- | --- |
-| Fresh meat/fish/protein |  |
-| Vegetables |  |
+| Protein |  |
+| Carbs |  |
 | Fruit |  |
-| Grains/starches |  |
-| Dairy/dairy alternatives |  |
-| Fats/oils |  |
-| Herbs/spices |  |
+| Vegetables |  |
 | Snacks |  |
 | Drinks |  |
-| Supplements |  |
-| Other |  |
+| Energy extras |  |
 
-### Meal Prep
+## Recipes
 
-| Task | Day | Storage/reheating notes |
-| --- | --- | --- |
-|  | Monday |  |
-|  | Tuesday |  |
-|  | Wednesday |  |
-|  | Thursday |  |
-|  | Friday |  |
-|  | Saturday |  |
-|  | Sunday |  |
+**Recipe file: [RECIPES.md](RECIPES.md)**
 
-# Recipes
-
-These recipes are lower-histamine ideas from the source document. Adapt ingredients to your own tolerated foods. Several ingredients may not suit every person with MCAS.
-
-## Breakfast
-
-### Quinoa Porridge with Fresh Berries
-
-Ingredients:
-
-- 1 cup quinoa, rinsed
-- 2 cups water
-- 1 cup unsweetened coconut milk or almond milk
-- 1 tablespoon maple syrup or honey, optional
-- 1/2 teaspoon cinnamon
-- Fresh blueberries or sliced apple
-
-Method:
-
-1. Simmer quinoa and water for about 15 minutes until tender and the water is absorbed.
-2. Stir in milk, cinnamon, and sweetener if using. Cook for another 5 minutes until creamy.
-3. Serve warm with berries or apple.
-
-### Sweet Potato and Mushroom Scramble
-
-Ingredients:
-
-- 1 medium sweet potato, peeled and diced
-- 2 tablespoons olive oil
-- Handful of sliced mushrooms
-- 2 eggs, or tofu as a vegan option
-- Salt and pepper
-
-Method:
-
-1. Boil sweet potato cubes for about 10 minutes, then drain.
-2. Heat olive oil in a pan and cook sweet potato for about 5 minutes until lightly browned.
-3. Cook mushrooms in the pan.
-4. Add eggs and scramble until cooked. Season to taste.
-
-### Chia Pudding with Pear and Cinnamon
-
-Ingredients:
-
-- 1/4 cup chia seeds
-- 1 cup unsweetened coconut milk or almond milk
-- 1 tablespoon maple syrup or honey
-- 1 pear, peeled and diced
-- 1/2 teaspoon cinnamon
-
-Method:
-
-1. Mix chia seeds, milk, and sweetener. Rest for 5 minutes, then stir again.
-2. Cover and refrigerate for at least 2 hours or overnight.
-3. Top with pear and cinnamon.
-
-### Savoury Oatmeal with Kale and Herbs
-
-Ingredients:
-
-- 1/2 cup rolled oats
-- 1 cup water or coconut milk
-- 1 cup fresh kale
-- 1 tablespoon chopped parsley
-- 1 tablespoon chopped chives
-- Salt
-
-Method:
-
-1. Bring liquid to a boil, add oats, and simmer for about 5 minutes.
-2. Stir in kale for 1-2 minutes until wilted.
-3. Add herbs and salt before serving.
-
-### Pumpkin Spice Smoothie
-
-Ingredients:
-
-- 1/2 cup canned pure pumpkin
-- 1 cup unsweetened coconut milk or almond milk
-- 1/2 teaspoon pumpkin pie spice, or cinnamon if better tolerated
-- 1 tablespoon maple syrup or honey, optional
-
-Method:
-
-1. Blend until smooth.
-2. Serve immediately or chill.
-
-### Oatmeal with Pear and Ginger
-
-Ingredients:
-
-- 1/2 cup rolled oats
-- 1 cup water or coconut milk
-- 1 pear, peeled and diced
-- 1/2 teaspoon grated fresh ginger
-- 1 tablespoon chia seeds
-- 1 tablespoon maple syrup or honey, optional
-
-Method:
-
-1. Cook oats in water or coconut milk until soft.
-2. Stir in pear, ginger, chia seeds, and sweetener if using. Cook 2-3 minutes more.
-3. Serve warm.
-
-## Lunch and Dinner
-
-### Grilled Chicken with Courgette Noodles
-
-Ingredients:
-
-- 2 boneless, skinless chicken breasts
-- 2 tablespoons olive oil
-- 2 courgettes, spiralised
-- 1 garlic clove, minced
-- 1 tablespoon chopped basil
-- Salt and pepper
-
-Method:
-
-1. Brush chicken with olive oil, season, and grill over medium-high heat for 6-7 minutes per side until cooked.
-2. Rest chicken briefly.
-3. Heat remaining oil, cook garlic for 1 minute, then add courgette noodles for 3-4 minutes.
-4. Toss with basil and serve sliced chicken on top.
-
-### Baked Cod with Sweet Potato Mash
-
-Ingredients:
-
-- 2 cod fillets
-- 2 tablespoons olive oil
-- 1 tablespoon chopped parsley
-- 2 medium sweet potatoes, peeled and chopped
-- 1/4 cup coconut milk or almond milk
-- Salt and pepper
-
-Method:
-
-1. Bake cod at 190 C / 375 F with oil, parsley, salt, and pepper for 15-20 minutes, until flaky.
-2. Boil sweet potatoes for about 15 minutes, drain, then mash with milk and seasoning.
-3. Serve together.
-
-### Turkey and Courgette Meatballs
-
-Ingredients:
-
-- 1 lb ground turkey
-- 1 cup grated courgette, squeezed dry
-- 1/4 cup chopped parsley
-- 1 egg
-- 1/4 cup gluten-free breadcrumbs or almond flour
-- 1 teaspoon dried oregano
-- Salt and pepper
-
-Method:
-
-1. Heat oven to 190 C / 375 F and line a baking sheet.
-2. Mix ingredients, form meatballs, and place on tray.
-3. Bake for 20-25 minutes until cooked through.
-
-### Sweet Potato and Kale Salad
-
-Ingredients:
-
-- 2 medium sweet potatoes, peeled and cubed
-- 2 tablespoons olive oil
-- 2 cups chopped kale
-- 1/4 cup pumpkin seeds
-- 1/4 cup pomegranate seeds, optional
-- 1 tablespoon apple cider vinegar
-- Salt and pepper
-
-Method:
-
-1. Roast sweet potato with oil, salt, and pepper at 200 C / 400 F for 25-30 minutes.
-2. Combine kale, roasted sweet potato, pumpkin seeds, and pomegranate if using.
-3. Dress with apple cider vinegar.
-
-### Herb-Roasted Chicken with Carrots
-
-Ingredients:
-
-- 2 chicken thighs or breasts
-- 1 tablespoon olive oil
-- 2 teaspoons dried thyme
-- 2 teaspoons dried rosemary
-- 2 large carrots, peeled and chopped
-- Salt and pepper
-
-Method:
-
-1. Rub chicken with oil, herbs, salt, and pepper.
-2. Roast chicken and carrots at 200 C / 400 F for 25-30 minutes, until chicken is cooked and carrots are tender.
-
-### Cauliflower Rice Stir-Fry
-
-Ingredients:
-
-- 1 head cauliflower, grated into rice-sized pieces
-- 1 tablespoon olive oil
-- 1 cup mixed vegetables, such as peppers, carrots, and peas
-- 2 garlic cloves, minced
-- 1 tablespoon coconut aminos, optional
-- Salt and pepper
-
-Method:
-
-1. Heat oil and cook garlic for 1 minute.
-2. Add vegetables and cook until tender.
-3. Stir in cauliflower rice and cook 5-7 minutes.
-4. Season with coconut aminos, salt, and pepper.
-
-## Snacks and Puddings
-
-### Blueberry Coconut Energy Bites
-
-Ingredients:
-
-- 1/2 cup unsweetened shredded coconut
-- 1/4 cup coconut flour
-- 1/4 cup fresh or frozen blueberries
-- 2 tablespoons maple syrup or honey
-- 1 tablespoon melted coconut oil
-
-Method:
-
-1. Pulse all ingredients in a food processor until combined.
-2. Roll into small balls.
-3. Chill for 30 minutes before serving.
-
-### Pear and Ginger Crumble
-
-Ingredients:
-
-- 3 ripe pears, peeled and sliced
-- 1 tablespoon grated fresh ginger
-- 1 tablespoon maple syrup or honey
-- 1/2 cup almond flour
-- 2 tablespoons melted coconut oil
-- 1/4 teaspoon cinnamon
-
-Method:
-
-1. Place pears in a baking dish and top with ginger and sweetener.
-2. Mix almond flour, coconut oil, and cinnamon into a crumbly topping.
-3. Sprinkle over pears and bake at 175 C / 350 F for 20-25 minutes.
-
-### Apple Cinnamon Crisps
-
-Ingredients:
-
-- 2 apples, thinly sliced
-- 1 teaspoon cinnamon
-
-Method:
-
-1. Heat oven to 93 C / 200 F and line a baking sheet.
-2. Lay apple slices in a single layer and sprinkle with cinnamon.
-3. Bake for 1-2 hours, turning occasionally, until dry and crisp.
-
-### Coconut Macaroons
-
-Ingredients:
-
-- 2 cups unsweetened shredded coconut
-- 1/2 cup egg whites, about 3 large eggs
-- 1/2 cup maple syrup or honey
-- 1/2 teaspoon vanilla extract, optional
-
-Method:
-
-1. Heat oven to 163 C / 325 F and line a baking sheet.
-2. Mix ingredients.
-3. Drop spoonfuls onto the tray.
-4. Bake 15-20 minutes until golden.
-
-## Drinks
-
-### Peppermint and Ginger Tea
-
-Ingredients:
-
-- 1 tablespoon fresh peppermint leaves or 1 peppermint tea bag
-- 1-inch piece fresh ginger, sliced
-- 2 cups boiling water
-- Honey, optional
-
-Method:
-
-1. Place peppermint and ginger in a teapot or heatproof jug.
-2. Add boiling water and steep 5-10 minutes.
-3. Strain and sweeten if desired.
-
-### Green Smoothie
-
-Ingredients:
-
-- 1 cup kale
-- 1/2 cucumber, peeled and sliced
-- 1/2 apple, sliced
-- 1/2 cup coconut water
-- 1 tablespoon chia seeds
-
-Method:
-
-1. Blend all ingredients until smooth.
-2. Add more coconut water if needed.
-
-### Coconut Water with Fresh Mint
-
-Ingredients:
-
-- 1 cup coconut water
-- Fresh mint leaves
-- Ice cubes
-
-Method:
-
-1. Add coconut water, mint, and ice to a glass.
-2. Stir and serve.
-
-### Warm Apple Cinnamon Drink
-
-Ingredients:
-
-- 2 cups 100% apple juice with no additives
-- 1 cinnamon stick
-- 1-2 cloves, optional
-- 1/2 teaspoon vanilla extract, optional
-
-Method:
-
-1. Warm apple juice with cinnamon and cloves over medium heat.
-2. Remove from heat and stir in vanilla if using.
-3. Serve warm.
-
-### Mango and Kale Smoothie
-
-Ingredients:
-
-- 1 cup fresh or frozen mango chunks
-- 1 cup kale
-- 1/2 cup coconut water
-- 1/2 cup ice, optional
-
-Method:
-
-1. Blend mango, kale, and coconut water.
-2. Add ice if desired and blend again.
-
-### Herbal Mint Iced Tea
-
-Ingredients:
-
-- 2 mint tea bags
-- 4 cups boiling water
-- Fresh mint leaves
-- Ice cubes
-
-Method:
-
-1. Steep tea bags in boiling water for 5-7 minutes.
-2. Cool to room temperature.
-3. Serve over ice with fresh mint.
-
-### Cucumber Mint Infused Water
-
-Ingredients:
-
-- 1 cucumber, sliced
-- Fresh mint leaves
-- 4 cups water
-
-Method:
-
-1. Combine cucumber, mint, and water in a pitcher.
-2. Refrigerate for at least 2 hours.
-3. Serve chilled.
-
-### Berry Smoothie
-
-Ingredients:
-
-- 1 cup frozen mixed berries, such as blueberries and strawberries
-- 1 cup unsweetened coconut milk or almond milk
-- 1 tablespoon flaxseeds or chia seeds
-- 1 teaspoon honey or maple syrup, optional
-
-Method:
-
-1. Blend all ingredients until smooth.
-2. Serve immediately.
-
-## Extra Nourishing Drink Ideas
-
-### Peanut Butter Banana Smoothie
-
-Ingredients:
-
-- 1 banana
-- 2 tablespoons peanut butter or another tolerated nut butter
-- 240 ml plant milk, such as soya or oat
-- 1 tablespoon chia seeds
-- 1 tablespoon flaxseeds
-- 1-2 Medjool dates
-- Optional: 1 scoop plant-based protein powder
-
-Method:
-
-1. Blend until smooth.
-
-### Oats and Berry Smoothie
-
-Ingredients:
-
-- 50 g oats, soaked in water or almond milk for 10-15 minutes
-- 150 g mixed berries
-- 1 tablespoon almond butter
-- 240 ml almond milk or tolerated dairy-free milk
-- 1 tablespoon ground flaxseeds or chia seeds
-
-Method:
-
-1. Blend until smooth.
-
-### Vanilla Coconut Milkshake
-
-Ingredients:
-
-- 240 ml full-fat coconut milk
-- 1 teaspoon vanilla extract
-- 2 tablespoons almond butter
-- 1 tablespoon chia seeds
-- 1-2 tablespoons maple syrup
-
-Method:
-
-1. Blend until smooth.
-
-## Further Resources Mentioned in the Source
-
-- Mast Cell Action managing MCAS: `mastcellaction.org/managing-mcas`
-- Managing your environment: `mastcellaction.org/managing-your-environment`
-- Managing triggers: `mastcellaction.org/managing-triggers`
-- Self-Management Toolkit: `mastcellaction.org/assets/_/2023/06/26/6fb5eecf-26e1-40a8-a724-0ea2d7310952/mcas-self-management-toolkit.pdf?v=1`
-- More low-histamine recipes: `throughthefibrofog.com/low-histamine-recipes`
-- More low-histamine recipes: `healinghistamine.com`
+Use the recipes as ideas, not strict rules. Swap anything that does not work for your own safe foods.
